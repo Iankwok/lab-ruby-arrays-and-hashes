@@ -13,7 +13,8 @@ def new_students(first_name, last_name, course_name)
   }
   students.push student
 end
-new_students("Ian", "Kwok2", "wdi9")
+
+new_students("Ian", "Kwok", "wdi9")
 
 # Method 3
 def sorted_list
